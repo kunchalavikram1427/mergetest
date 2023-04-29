@@ -1,2 +1,2 @@
-file2 line1 in dev
+file2 line1 in dev fffff
 file2 line1 in master
